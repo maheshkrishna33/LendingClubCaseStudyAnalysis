@@ -11,7 +11,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- The analysis should help the company understand the driving factors behind loan default
+- Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. 
+- Consumer finance company which Lending Club specializes in lending various types of loans to urban customers. When the company receives a loan application, the         company has to make a decision for loan approval based on the applicant’s profile.
+
 - How Lending club works:<br>
    a) Borrowers apply for loans<br>
    b) Investors open an account<br>
@@ -20,7 +22,7 @@
    e) Borrowers repay automatically<br>
    f) Investors earn and reinvest<br>
    
-- The current business problem is going to make it easier to decide whether to give loans to customers or not, based on analysis from the data set<br>
+- Using the provided data set we need to - Identify risky loan applicants by understanding the KEY driving factors (or driver variables) behind loan default .i.e. the   variables which are strong indicators of default.<br>
 - The data set used has 39000+ applicants information including whether they defaulted or not
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
